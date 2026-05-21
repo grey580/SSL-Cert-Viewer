@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SslCertViewer.App/SslCertViewer.App.csproj" />
+  <Project Path="SslCertViewer.Core.Tests/SslCertViewer.Core.Tests.csproj" />
+  <Project Path="SslCertViewer.Core/SslCertViewer.Core.csproj" />
+</Solution>
