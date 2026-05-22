@@ -33,6 +33,16 @@ dotnet build .\SslCertViewer.slnx
 .\SslCertViewer.App\bin\Debug\net10.0-windows\SslCertViewer.App.exe
 ```
 
+## Published executable
+
+The repository now includes a published Windows build here:
+
+```text
+dist/win-x64/SslCertViewer.App.exe
+```
+
+This published `.exe` is **framework-dependent**, so the target machine needs the **.NET 10 Windows Desktop Runtime (x64)** installed.
+
 ## Test
 
 ```powershell
